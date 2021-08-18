@@ -36,19 +36,19 @@ Apps 这里一般指**广义上的应用**，读作`/ˈæps/`。
 
 上黑榜的通常是不尊重用户隐私的 App，包括明显违法违规的，**也包括不违规但恶心的**。
 
-* iOS 黑榜：https://github.com/0xHJK/CleanApps/iOS.black.md
-* Android 黑榜：https://github.com/0xHJK/CleanApps/Android.black.md
-* Windows 黑榜：https://github.com/0xHJK/CleanApps/Windows.black.md
-* macOS 黑榜：https://github.com/0xHJK/CleanApps/macOS.black.md
+* iOS 黑榜：https://github.com/0xHJK/CleanApps/blob/main/iOS.black.md
+* Android 黑榜：https://github.com/0xHJK/CleanApps/blob/main/Android.black.md
+* Windows 黑榜：https://github.com/0xHJK/CleanApps/blob/main/Windows.black.md
+* macOS 黑榜：https://github.com/0xHJK/CleanApps/blob/main/macOS.black.md
 
 ## 红榜
 
 上红榜的通常是在用户隐私方面处理较好的 App，条款清晰友好，只收集允许的有限的必要的信息。
 
-* iOS 红榜：https://github.com/0xHJK/CleanApps/iOS.white.md
-* Android 红榜：https://github.com/0xHJK/CleanApps/Android.white.md
-* Windows 红榜：https://github.com/0xHJK/CleanApps/Windows.white.md
-* macOS 红榜：https://github.com/0xHJK/CleanApps/macOS.white.md
+* iOS 红榜：https://github.com/0xHJK/CleanApps/blob/main/iOS.white.md
+* Android 红榜：https://github.com/0xHJK/CleanApps/blob/main/Android.white.md
+* Windows 红榜：https://github.com/0xHJK/CleanApps/blob/main/Windows.white.md
+* macOS 红榜：https://github.com/0xHJK/CleanApps/blob/main/macOS.white.md
 
 ## 免责声明
 

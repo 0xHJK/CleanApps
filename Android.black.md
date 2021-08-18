@@ -1,6 +1,6 @@
 # Android 黑榜
 
-https://github.com/0xHJK/CleanApps/Android.black.md
+https://github.com/0xHJK/CleanApps/blob/main/Android.black.md
 
 基本功能和必要个人信息参考[《常见类型移动互联网应用程序必要个人信息范围规定》](http://www.cac.gov.cn/2021-03/22/c_1617990997054277.htm)
 
