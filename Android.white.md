@@ -52,7 +52,7 @@ https://github.com/0xHJK/CleanApps/blob/main/Android.white.md
 
 | 公司 | App 名称 | 版本 | 推荐理由 | 日期 |
 | ---- | -------- | ---- | -------- | ---- |
-|      |          |      |          |      |
+| 若友网络科技有限公司 |   即刻       |  7.21.1    |    收集用户基础信息，见[即刻隐私政策](https://post.okjike.com/jike-privacy/)       |   2021.8.22   |
 
 ## 网络支付类
 
